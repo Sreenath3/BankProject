@@ -59,7 +59,7 @@ b {
 			<tr>
 				<th><input type="number" name="money"></th>
 			</tr>
-//hello
+
 			<tr>
 				<th><button class="btn btn-primary" type="submit">Deposit</button></th>
 			</tr>
